@@ -1,1 +1,3 @@
-# firehash.github.io
+<?php
+echo "welcome"
+?>
